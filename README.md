@@ -6,7 +6,7 @@
 
 ###
 
-<img height="250" src="https://cdn.dribbble.com/userupload/21870548/file/original-9555001fe89dc0de6333006d48d1beb2.gif"  />
+<img height="100" src="https://cdn.dribbble.com/userupload/21870548/file/original-9555001fe89dc0de6333006d48d1beb2.gif"  />
 
 ###
 
