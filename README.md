@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I’m a self-taught full-stack developer passionate about building enterprise web applications tailored to niche industries. My focus is on crafting scalable, efficient, and user-friendly solutions that help businesses streamline operations and drive success.</h5>
+<h5 align="left">I’m a self-taught full-stack developer passionate about building enterprise web applications tailored to niche industries. My focus is on crafting scalable, efficient, and user-friendly solutions that help businesses streamline operations and drive success.</h5>
 
 ###
 
