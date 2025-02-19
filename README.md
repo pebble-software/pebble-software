@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="250" src="https://i.gifer.com/SVKl.gif"  />
+
+###
+
 <h6 align="left">🔭 I am currently working on an enterprise web app for Early Education Providers</h6>
 
 ###
@@ -26,13 +30,11 @@
 
 ###
 
-<img align="left" alt="XD" height="250" src="https://i.gifer.com/SVKl.gif"  />
-
-###
-
 <h6 align="left">🎯 Focusing: On a user-driven approach to ensure intuitive and intentional experiences</h6>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
