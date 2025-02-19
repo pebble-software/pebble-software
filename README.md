@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel from Pebble Software Inc.</h1>
 <h3 align="center">I am a self taught full stack dev, specializing in enterprise web apps for niche businesses</h3>
 
-<figure><embed src="https://wakatime.com/share/@danielRose2309/c4dfba41-5949-47e8-9017-d47774594d11.svg"></embed></figure>
+<img src="https://wakatime.com/share/@danielRose2309/c4dfba41-5949-47e8-9017-d47774594d11.svg" alt="XD" />
 
 - 🔭 I’m currently working on **Student Portal**
 
