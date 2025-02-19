@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋! My name is Daniel and I'm a co-founder of Pebble Software Inc</h2>
+<h2 align="left">Hi 👋! My name is Daniel and I'm a co-founder of Pebble Software Inc</h2>
 
 ###
 
-<h2 align="left">I’m a self-taught full-stack developer passionate about building enterprise web applications tailored to niche industries. My focus is on crafting scalable, efficient, and user-friendly solutions that help businesses streamline operations and drive success.</h5>
+<h3 align="left">I’m a self-taught full-stack developer passionate about building enterprise web applications tailored to niche industries. My focus is on crafting scalable, efficient, and user-friendly solutions that help businesses streamline operations and drive success.</h5>
 
 ###
 
