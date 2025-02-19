@@ -10,27 +10,27 @@
 
 ###
 
-<h4 align="left">🔭 I am currently working on an enterprise web app for Early Education Providers</h6>
+<h5 align="left">🔭 I am currently working on an enterprise web app for Early Education Providers</h6>
 
 ###
 
-<h4 align="left">💡 Exploring: Scalable architectures for high-traffic web apps</h6>
+<h5 align="left">💡 Exploring: Scalable architectures for high-traffic web apps</h6>
 
 ###
 
-<h4 align="left">🚀 Improving: Authentication flows and cloud infrastructure</h6>
+<h5 align="left">🚀 Improving: Authentication flows and cloud infrastructure</h6>
 
 ###
 
-<h4 align="left">📊 Optimizing: Database performance for large-scale data handling</h6>
+<h5 align="left">📊 Optimizing: Database performance for large-scale data handling</h6>
 
 ###
 
-<h4 align="left">🛠️ Building: Plug-and-play solutions for SaaS applications</h6>
+<h5 align="left">🛠️ Building: Plug-and-play solutions for SaaS applications</h6>
 
 ###
 
-<h4 align="left">🎯 Focusing: On a user-driven approach to ensure intuitive and intentional experiences</h6>
+<h5 align="left">🎯 Focusing: On a user-driven approach to ensure intuitive and intentional experiences</h6>
 
 ###
 
