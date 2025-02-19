@@ -6,10 +6,6 @@
 
 ###
 
-<img height="100" src="https://cdn.dribbble.com/userupload/21870548/file/original-9555001fe89dc0de6333006d48d1beb2.gif"  />
-
-###
-
 <h6 align="left">🔭 I am currently working on an enterprise web app for Early Education Providers</h6>
 
 ###
@@ -30,11 +26,13 @@
 
 ###
 
-<h6 align="left">🎯 Focusing: On a user-driven approach to ensure intuitive and intentional experiences</h6>
+<img align="right" height="250" src="https://cdn.dribbble.com/userupload/21870548/file/original-9555001fe89dc0de6333006d48d1beb2.gif"  />
 
 ###
 
-<br clear="both">
+<h6 align="left">🎯 Focusing: On a user-driven approach to ensure intuitive and intentional experiences</h6>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
