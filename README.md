@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pebble-software/pebble-software/output/snake.svg" alt="Snake animation" />
+<img height="300" src="https://raw.githubusercontent.com/pebble-software/pebble-software/output/snake.svg" alt="Snake animation" />
 
 ###
