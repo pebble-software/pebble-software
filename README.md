@@ -76,8 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pebble-software&theme=tokyo-night&custom_title=My%20Contributions&radius=90&area=true&hide_border=true&hide_title=false" height="240" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img align="center" height="300" src="https://raw.githubusercontent.com/pebble-software/pebble-software/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/pebble-software/pebble-software/output/snake.svg" alt="Snake animation" />
 
 ###
