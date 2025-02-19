@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel from Pebble Software Inc.</h1>
 <h3 align="center">I am a self taught full stack dev, specializing in enterprise web apps for niche businesses</h3>
 
-<a href="https://wakatime.com/badge/user/8f7f7cc4-167d-4c9d-a770-5cd5fd64546f/project/da992169-fecc-43b6-a625-7fefbd92ab46"><img src="https://wakatime.com/badge/user/8f7f7cc4-167d-4c9d-a770-5cd5fd64546f/project/da992169-fecc-43b6-a625-7fefbd92ab46.svg" alt="wakatime"></a>
-<a href="https://wakatime.com/badge/user/8f7f7cc4-167d-4c9d-a770-5cd5fd64546f/project/d3b6aeff-fad2-45b2-bcac-7bf86c90dd15"><img src="https://wakatime.com/badge/user/8f7f7cc4-167d-4c9d-a770-5cd5fd64546f/project/d3b6aeff-fad2-45b2-bcac-7bf86c90dd15.svg" alt="wakatime"></a>
-<a href="https://wakatime.com/badge/user/8f7f7cc4-167d-4c9d-a770-5cd5fd64546f/project/a684f4da-55d4-4384-b493-4e2b3e5c7e1b"><img src="https://wakatime.com/badge/user/8f7f7cc4-167d-4c9d-a770-5cd5fd64546f/project/a684f4da-55d4-4384-b493-4e2b3e5c7e1b.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@8f7f7cc4-167d-4c9d-a770-5cd5fd64546f"><img src="https://wakatime.com/badge/user/8f7f7cc4-167d-4c9d-a770-5cd5fd64546f.svg" alt="Total time coded since Sep 20 2023" /></a>
 
 
 <img height="500" src="https://wakatime.com/share/@danielRose2309/c4dfba41-5949-47e8-9017-d47774594d11.svg" alt="XD" />
