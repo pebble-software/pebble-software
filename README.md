@@ -10,72 +10,122 @@
 
 ###
 
-<h5 align="left">🔭 I am currently working on an enterprise web app for Early Education Providers</h6>
+<h6 align="left">🔭 I am currently working on an enterprise web app for Early Education Providers</h6>
 
 ###
 
-<h5 align="left">💡 Exploring: Scalable architectures for high-traffic web apps</h6>
+<h6 align="left">💡 Exploring: Scalable architectures for high-traffic web apps</h6>
 
 ###
 
-<h5 align="left">🚀 Improving: Authentication flows and cloud infrastructure</h6>
+<h6 align="left">🚀 Improving: Authentication flows and cloud infrastructure</h6>
 
 ###
 
-<h5 align="left">📊 Optimizing: Database performance for large-scale data handling</h6>
+<h6 align="left">📊 Optimizing: Database performance for large-scale data handling</h6>
 
 ###
 
-<h5 align="left">🛠️ Building: Plug-and-play solutions for SaaS applications</h6>
+<h6 align="left">🛠️ Building: Plug-and-play solutions for SaaS applications</h6>
 
 ###
 
-<h5 align="left">🎯 Focusing: On a user-driven approach to ensure intuitive and intentional experiences</h6>
+<h6 align="left">🎯 Focusing: On a user-driven approach to ensure intuitive and intentional experiences</h6>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<p align="left">🗣️ Languages</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pebble-software&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=25" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=pebble-software&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20Stats" height="180" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pebble-software&theme=tokyo-night&custom_title=My%20Contributions&radius=90&area=true&hide_border=true&hide_title=false" height="240" alt="activity-graph graph"  />
+<p align="left">🏗️ Frameworks, infrastructure and databases</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="30" alt="yarn logo"  />
 </div>
 
-<img align="center" src="https://raw.githubusercontent.com/pebble-software/pebble-software/output/snake.svg" alt="Snake animation" />
+###
+
+<p align="left">🌀 Other</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svg" height="30" alt="svg logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://streak-stats.demolab.com?user=pebble-software&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=0" height="170" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=pebble-software&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20Stats" height="180" alt="stats graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pebble-software&theme=tokyo-night&custom_title=My%20Contributions&radius=90&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pebble-software/pebble-software/output/snake.svg" alt="Snake animation" />
 
 ###
