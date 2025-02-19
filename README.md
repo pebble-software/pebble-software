@@ -104,7 +104,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pebble-software&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=0" height="170" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=pebble-software&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20Stats" height="180" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pebble-software&theme=tokyo-night&custom_title=My%20Contributions&radius=90&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pebble-software&theme=tokyo-night&custom_title=My%20Contributions&radius=90&area=true&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
