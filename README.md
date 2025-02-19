@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Daniel and I'm a co-founder of Pebble Software Inc</h2>
+<h1 align="left">Hi 👋! My name is Daniel and I'm a co-founder of Pebble Software Inc</h2>
 
 ###
 
-<h5 align="left">I’m a self-taught full-stack developer passionate about building enterprise web applications tailored to niche industries. My focus is on crafting scalable, efficient, and user-friendly solutions that help businesses streamline operations and drive success.</h5>
+<h2 align="left">I’m a self-taught full-stack developer passionate about building enterprise web applications tailored to niche industries. My focus is on crafting scalable, efficient, and user-friendly solutions that help businesses streamline operations and drive success.</h5>
 
 ###
 
@@ -10,27 +10,27 @@
 
 ###
 
-<h6 align="left">🔭 I am currently working on an enterprise web app for Early Education Providers</h6>
+<h4 align="left">🔭 I am currently working on an enterprise web app for Early Education Providers</h6>
 
 ###
 
-<h6 align="left">💡 Exploring: Scalable architectures for high-traffic web apps</h6>
+<h4 align="left">💡 Exploring: Scalable architectures for high-traffic web apps</h6>
 
 ###
 
-<h6 align="left">🚀 Improving: Authentication flows and cloud infrastructure</h6>
+<h4 align="left">🚀 Improving: Authentication flows and cloud infrastructure</h6>
 
 ###
 
-<h6 align="left">📊 Optimizing: Database performance for large-scale data handling</h6>
+<h4 align="left">📊 Optimizing: Database performance for large-scale data handling</h6>
 
 ###
 
-<h6 align="left">🛠️ Building: Plug-and-play solutions for SaaS applications</h6>
+<h4 align="left">🛠️ Building: Plug-and-play solutions for SaaS applications</h6>
 
 ###
 
-<h6 align="left">🎯 Focusing: On a user-driven approach to ensure intuitive and intentional experiences</h6>
+<h4 align="left">🎯 Focusing: On a user-driven approach to ensure intuitive and intentional experiences</h6>
 
 ###
 
