@@ -6,10 +6,6 @@
 
 ###
 
-<img align="right" height="250" src="https://i.gifer.com/SVKl.gif"  />
-
-###
-
 <h6 align="left">🔭 I am currently working on an enterprise web app for Early Education Providers</h6>
 
 ###
